@@ -505,6 +505,14 @@
          
     </url>
     <url>
+         <loc>None%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6/stanford_CS228/</loc>
+         <lastmod>2023-01-02</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6/stanford_CS228/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6/stanford_CS228/"/>
+         
+    </url>
+    <url>
          <loc>None%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS224n/</loc>
          <lastmod>2023-01-02</lastmod>
          <changefreq>daily</changefreq>
@@ -529,11 +537,11 @@
          
     </url>
     <url>
-         <loc>None%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS231/</loc>
+         <loc>None%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS231n/</loc>
          <lastmod>2023-01-02</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS231/"/>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS231/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS231n/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/CS231n/"/>
          
     </url>
     <url>
@@ -553,11 +561,27 @@
          
     </url>
     <url>
-         <loc>None%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/umich_eecs498/</loc>
+         <loc>None%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/stanford_CS234/</loc>
          <lastmod>2023-01-02</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/umich_eecs498/"/>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/umich_eecs498/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/stanford_CS234/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/stanford_CS234/"/>
+         
+    </url>
+    <url>
+         <loc>None%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/ucl_COMPM050_silver/</loc>
+         <lastmod>2023-01-02</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/ucl_COMPM050_silver/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/ucl_COMPM050_silver/"/>
+         
+    </url>
+    <url>
+         <loc>None%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/umich_EECS498/</loc>
+         <lastmod>2023-01-02</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/umich_EECS498/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/umich_EECS498/"/>
          
     </url>
     <url>
