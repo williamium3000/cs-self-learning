@@ -329,6 +329,14 @@
          
     </url>
     <url>
+         <loc>None%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/cmu_ML10-725/</loc>
+         <lastmod>2023-01-02</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/cmu_ML10-725/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/cmu_ML10-725/"/>
+         
+    </url>
+    <url>
          <loc>None%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/convex/</loc>
          <lastmod>2023-01-02</lastmod>
          <changefreq>daily</changefreq>
@@ -345,11 +353,11 @@
          
     </url>
     <url>
-         <loc>None%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/convex_/</loc>
+         <loc>None%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/convex_%20copy/</loc>
          <lastmod>2023-01-02</lastmod>
          <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/convex_/"/>
-         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/convex_/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/convex_%20copy/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/convex_%20copy/"/>
          
     </url>
     <url>
@@ -358,6 +366,14 @@
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/numerical/"/>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/numerical/"/>
+         
+    </url>
+    <url>
+         <loc>None%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/xjtu_convex/</loc>
+         <lastmod>2023-01-02</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/xjtu_convex/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/xjtu_convex/"/>
          
     </url>
     <url>
@@ -446,6 +462,14 @@
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/"/>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/ML/"/>
+         
+    </url>
+    <url>
+         <loc>None%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/xjtu_stat%26ml/</loc>
+         <lastmod>2023-01-02</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/xjtu_stat%26ml/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/xjtu_stat%26ml/"/>
          
     </url>
     <url>
@@ -582,6 +606,14 @@
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/umich_EECS498/"/>
          <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/umich_EECS498/"/>
+         
+    </url>
+    <url>
+         <loc>None%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/xjtu_rl/</loc>
+         <lastmod>2023-01-02</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/xjtu_rl/"/>
+         <xhtml:link rel="alternate" hreflang="en" href="Noneen/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/xjtu_rl/"/>
          
     </url>
     <url>
