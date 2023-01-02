@@ -1,11 +1,11 @@
-site_name: CS自学指南
-site_url: https://csdiy.wiki/
-site_author: PKUFlyingPig
+site_name: williamium course info
+site_url:
+site_author: william
 site_description: >-
-  CS自学指南
+  williamium course info
 
-repo_name: cs-self-learning
-repo_url: https://github.com/pkuflyingpig/cs-self-learning/
+repo_name: williamium-course-info
+repo_url: https://williamium3000.github.io/williamium-course-info/
 
 copyright: Copyright &copy; 2021-present <a href="https://github.com/PKUFlyingPig" target="_blank" rel="noopener noreferrer">PKUFlyingPig</a>
 
@@ -145,7 +145,7 @@ nav:
       - "UCB CS126: probability theory": "数学进阶/CS126.md"
       - "MIT 6.042J: Mathematics for Computer Science": "数学进阶/6.042J.md"
       - "MIT18.330: Introduction to numerical analysis": "数学进阶/numerical.md"
-      - "Standford EE364A: Convex Optimization I": "数学进阶/convex1.md"
+      - "Standford EE364A: Convex Optimization I": "数学进阶/convex.md"
       - "The Information Theory, Patter Recognition, and Neural Networks": "数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
       - "Standford EE364B: Convex Optimization II": "数学进阶/convex2.md"
   - 编程入门:

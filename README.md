@@ -2,8 +2,14 @@
   <img src=./docs/images/title.png >
 </div>
 
-# CS 自学指南
+# williamium-course-info
+这个 repo fork 自 @PKUFlyingPig 的 CS 自学指南 （特此鸣谢）。用于本人记录公开课信息。额外的内容包括
+- 额外的公开课信息（未完全记录）
+- 完全记录的公开课会在原 repo 提 pr
+- [通过 mkdocs 部署本网站的方式](#如何build并且deploy)
+- Forked 的 repo 通过 mkdocs 部署在 williamium3000 的 [github](https://williamium3000.github.io/williamium-course-info/) 中。
 
+# CS 自学指南
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*
 
 [![License](https://img.shields.io/github/license/PKUFlyingPig/cs-self-learning)](https://github.com/PKUFlyingPig/cs-self-learning/blob/master/LICENSE)
@@ -26,6 +32,20 @@
 
 英文版请移步[这里](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)。
 
+## 如何build并且deploy
+本项目由mkdocs支持，此处介绍如何通过 mkdocs build， preview 并 部署在github pages （gh-pages） 中。关于mkdocs，具体参见[mkdocs官网文档](https://www.mkdocs.org/getting-started/)。关于gh-pages，具体参见[gh-pages](https://pages.github.com/)。
+具体步骤如下：
+- 首先安装mkdocs
+
+```
+pip install -r requirements.txt
+```
+- 部署在gh-pages上：这个指令会在本地创建（如果不存在）gh-pages 分支，在这个分支上 build， 并自动推送到 github 远端 （根据当前 git 下的 origin 对应的 url）
+```
+mkdocs gh-deploy
+```
+- 在对应 github repo 下找到 gh-pages 的路径就可以看到部署好的书本了。路径一般形式： https:/xxx.github.io/xxx/
+- 
 ## 如何成为贡献者
 
 一个人的力量终究是有限的，对于书中任意章节你若有想要补充的内容，欢迎各位提出 [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)。如果你想贡献一门新的课程，可以参考目前 repo 中的 [template](./template.md) 文件作为模版，并在 [mkdocs.yml](./mkdocs.yml) 文件中添加其navigation，当然你还可以在 [CS 学习规划](./docs/CS学习规划.md) 里的对应模块为其添加言简意赅的导语。如果你有想推荐的书籍，请参考 [好书推荐](https://raw.githubusercontent.com/PKUFlyingPig/cs-self-learning/master/docs/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90.md) 模块上方的注释按相应格式添加内容。
@@ -40,19 +60,6 @@
 
 本书支持页面评论功能，因此如果你想自学某课程，可以自己建立群聊后（QQ 微信皆可）在对应的课程页面下方发表评论，注明你的学习目标以及加入交流群的途径。此外，过去已有不少朋友在 issue 里建立了类似群聊，可以自行选择直接加入。
 
-## 如何build并且deploy
-本项目由mkdocs支持，此处介绍如何通过 mkdocs build， preview 并 部署在github pages （gh-pages） 中。关于mkdocs，具体参见[mkdocs官网文档](https://www.mkdocs.org/getting-started/)。关于gh-pages，具体参见[gh-pages](https://pages.github.com/)。
-具体步骤如下：
-- 首先安装mkdocs
-
-```
-pip install -r requirements.txt
-```
-- 部署在gh-pages上：这个指令会在本地创建（如果不存在）gh-pages 分支，在这个分支上 build， 并自动推送到 github 远端 （根据当前 git 下的 origin 对应的 url）
-```
-mkdocs gh-deploy
-```
-- 在对应 github repo 下找到 gh-pages 的路径就可以看到部署好的书本了。路径一般形式： https:/xxx.github.io/xxx/
 
 ## Star History
 
