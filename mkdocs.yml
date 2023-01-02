@@ -145,8 +145,9 @@ nav:
       - "UCB CS126: probability theory": "数学进阶/CS126.md"
       - "MIT 6.042J: Mathematics for Computer Science": "数学进阶/6.042J.md"
       - "MIT18.330: Introduction to numerical analysis": "数学进阶/numerical.md"
-      - "Standford EE364A: Convex Optimization": "数学进阶/convex.md"
+      - "Standford EE364A: Convex Optimization I": "数学进阶/convex1.md"
       - "The Information Theory, Patter Recognition, and Neural Networks": "数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
+      - "Standford EE364B: Convex Optimization II": "数学进阶/convex2.md"
   - 编程入门:
       - "MIT-Missing-Semester": "编程入门/MIT-Missing-Semester.md"
       - "Harvard CS50: This is CS50x": "编程入门/CS50.md"
@@ -223,6 +224,7 @@ nav:
       - "Coursera: Deep Learning": "深度学习/CS230.md"
       - "国立台湾大学：李宏毅机器学习": "深度学习/LHY.md"
       - "Stanford CS231n: CNN for Visual Recognition": "深度学习/CS231.md"
+      - "UMich EECS498: Deep Learning for Computer Vision": "深度学习/umich_eecs498.md"
       - "Stanford CS224n: Natural Language Processing": "深度学习/CS224n.md"
       - "Stanford CS224w: Machine Learning with Graphs": "深度学习/CS224w.md"
       - "UCB CS285: Deep Reinforcement Learning": "深度学习/CS285.md"

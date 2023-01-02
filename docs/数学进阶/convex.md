@@ -1,4 +1,4 @@
-# Stanford EE364A: Convex Optimization
+# Stanford EE364A: Convex Optimization I
 
 ## 课程简介
 
