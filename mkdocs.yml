@@ -150,6 +150,7 @@ nav:
       - "The Information Theory, Patter Recognition, and Neural Networks": "数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
       - "Standford EE364B: Convex Optimization II": "数学进阶/convex2.md"
       - "最优化方法 Optimization by 许志钦": "数学进阶/xjtu_convex.md"
+      - "Convex Optimization by Ahmad Bazzi on YouTube": "数学进阶/convex_youtube_ahmad.md"
   - 编程入门:
       - "MIT-Missing-Semester": "编程入门/MIT-Missing-Semester.md"
       - "Harvard CS50: This is CS50x": "编程入门/CS50.md"

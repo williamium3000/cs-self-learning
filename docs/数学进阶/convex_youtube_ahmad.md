@@ -1,11 +1,11 @@
-# 课程名称
+# Convex Optimization by Ahmad Bazzi
 
 ## 课程简介
 
-- 所属大学：
-- 先修要求：
-- 编程语言：
-- 课程难度：🌟🌟🌟
+- 所属大学：N/A
+- 先修要求：N/A
+- 编程语言：N/A
+- 课程难度：
 - 预计学时：
 
 <!-- 用一两段话介绍这门课程，内容包括但不限于：
@@ -18,7 +18,7 @@
 
 ## 课程资源
 
-- 课程网站：
-- 课程视频：
-- 课程教材：
-- 课程作业：
+- 课程网站：无
+- 课程视频：<https://www.youtube.com/playlist?list=PL-DDW8QIRjNOVxrU2efygBw0xADVOgpmw>
+- 课程教材：无
+- 课程作业：无
