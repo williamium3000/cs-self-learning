@@ -315,7 +315,7 @@ Berkeley 作为著名开源数据库 postgres 的发源地也不遑多让，[UCB
 
 #### 计算机视觉
 
-[Stanford CS231n: CNN for Visual Recognition](深度学习/CS231.md)
+[Stanford CS231n: CNN for Visual Recognition](深度学习/CS231n.md)
 
 #### 自然语言处理
 
