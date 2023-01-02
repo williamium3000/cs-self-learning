@@ -149,6 +149,7 @@ nav:
       - "Standford EE364A: Convex Optimization I": "数学进阶/convex.md"
       - "The Information Theory, Patter Recognition, and Neural Networks": "数学进阶/The_Information_Theory_Pattern_Recognition_and_Neural_Networks.md"
       - "Standford EE364B: Convex Optimization II": "数学进阶/convex2.md"
+      - "最优化方法 Optimization by 许志钦": "数学进阶/xjtu_convex.md"
   - 编程入门:
       - "MIT-Missing-Semester": "编程入门/MIT-Missing-Semester.md"
       - "Harvard CS50: This is CS50x": "编程入门/CS50.md"
@@ -218,6 +219,7 @@ nav:
       - "Coursera: Machine Learning": "机器学习/ML.md"
       - "Stanford CS229: Machine Learning": "机器学习/CS229.md"
       - "UCB CS189: Introduction to Machine Learning": "机器学习/CS189.md"
+      - "统计计算与机器学习 by 许志钦": "机器学习/xjtu_stat&ml.md"
   - 机器学习系统:
       - "Machine Learning Compilation": "机器学习系统/MLC.md"
       - "CMU 10-414/714: Deep Learning Systems": "机器学习系统/CMU10-414.md"
@@ -231,6 +233,7 @@ nav:
       - "Stanford CS234: Reinforcement Learning": "深度学习/stanford_CS234.md"
       - "UCL COMPM050: Reinforcement Learning by David Silver": "深度学习/ucl_COMPM050_silver.md"
       - "UMich EECS498: Deep Learning for Computer Vision": "深度学习/umich_eecs498.md"
+      - "强化学习 Reinforcement Learning by 许志钦": "深度学习/xjtu_rl.md"
   - 机器学习进阶:
       - "进阶路线图": "机器学习进阶/roadmap.md"
       - "CMU 10-708: Probabilistic Graphical Models": "机器学习进阶/CMU10-708.md"
