@@ -75,7 +75,7 @@ plugins:
         en:
           name: English
           build: true
-          site_name: CSDIY.wiki
+          site_name: https://williamium3000.github.io/williamium-course-info/
       nav_translations:
         en:
           前言: Foreword
@@ -151,6 +151,7 @@ nav:
       - "Standford EE364B: Convex Optimization II": "数学进阶/convex2.md"
       - "最优化方法 Optimization by 许志钦": "数学进阶/xjtu_convex.md"
       - "Convex Optimization by Ahmad Bazzi on YouTube": "数学进阶/convex_youtube_ahmad.md"
+      - "Machine Learning 10-725: Convex Optimization": "数学进阶/cmu_ML10-725.md"
   - 编程入门:
       - "MIT-Missing-Semester": "编程入门/MIT-Missing-Semester.md"
       - "Harvard CS50: This is CS50x": "编程入门/CS50.md"
